@@ -1,0 +1,51 @@
+/* 1 */
+* {
+    font-family: Arial;
+    text-align: center;
+    
+}
+.new {
+    color: red;
+}
+.mac {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1px;
+    
+}
+.super {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1px;
+}
+.price {
+    font-size: 15px;
+    
+}
+.buy {
+  background-color: blue;
+  color: white;
+  border: none;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-bottom: 10px;
+  font-weight: 500;
+  border-radius: 25px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+/* 2 */
+.dollar {
+    font-size: 35px;
+}
+.stats {
+    color: green;
+}
+.time {
+    color: rgb(96, 95, 95);
+}
+.per {
+    color: red;
+}
