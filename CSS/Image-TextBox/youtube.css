@@ -1,0 +1,71 @@
+* {
+    font-family: Arial;
+}
+.thumbnail {
+    width: 300px;
+    display: block;
+}
+.search-bar {
+    font-size: 20px;
+}
+.nani-1 {
+    width: 200px;
+    border-radius: 10px;
+}
+.nani-2 {
+    margin-left: 30px;
+    width: 300px;
+}
+.nani-3 {
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.email-id {
+    padding: 10px 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.para {
+    font-size: 14px;
+    color: rgb(89, 88, 88);
+}
+.button {
+    background-color: rgb(67, 67, 232);
+    padding: 13px 100px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: box-shadow 1s;
+    color: white;
+}
+.nani-4 {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    vertical-align: top;
+}
+.text {
+    font-size: 18px;
+    margin-left: 250px;
+    display: inline;
+    vertical-align: middle;
+    color: rgb(98, 97, 97);
+}
+.tweet {
+    margin-left: 250px;
+    display: inline;
+    padding: 8px 16px;
+    vertical-align: middle;
+    background-color: #1D9BF0;
+    border-radius: 20px;
+    font-weight: 400;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+} 
