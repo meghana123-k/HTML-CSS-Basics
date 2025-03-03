@@ -1,0 +1,47 @@
+* {
+    font-family: calibri;
+}
+.name, .email {
+    display: block;
+    margin-bottom: 10px;
+}
+.thank {
+    display: inline-block;
+}
+.yes, .no {
+    margin-left: 15px;
+    vertical-align: middle;
+}
+/* uber */
+.head {
+    font-size: 35px;
+    font-weight: 600;
+}
+.input-text {
+    text-align: left;
+    background-color: rgb(231, 229, 229);
+    border: none;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 10px 100px;
+    display: block;
+}
+.request {
+    margin-top: 20px;
+    background-color: black;
+    padding: 10px 20px;
+    font-size: 17px;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+    color: white;
+}
+.schedule {
+    margin-top: 20px;
+    background-color: rgb(231, 229, 229);
+    padding: 10px 20px;
+    font-size: 17px;
+    border: none;
+    border-radius: 1px;
+    cursor: pointer;
+}
