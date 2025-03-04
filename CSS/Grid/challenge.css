@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.main-all {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+}
+.main {
+    box-shadow: 5px 5px 5px grey;
+}
+.profile {
+    width: 200px;
+}
+
+.profile-name {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.dp {
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.dp-name {
+    color: gray;
+    margin-left: 5px;
+    margin-top: 10px;
+    vertical-align: top;
+    display: inline-block;
+}
+.button {
+    margin: 15px 15px 10px;
+    padding: 10px 20px;
+    background-color: rgb(33, 33, 234);
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}

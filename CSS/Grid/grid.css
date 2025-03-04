@@ -1,0 +1,17 @@
+.main-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: white;
+    height: 300px;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.box1 {
+    background-color: red;
+}
+.box2 {
+    background-color: green;
+}
+.box3 {
+    background-color: blue;
+}
