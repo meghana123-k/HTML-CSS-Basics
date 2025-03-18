@@ -1,0 +1,1 @@
+This repository covers the basics of HTML and CSS, including structuring web pages with HTML elements, styling them with CSS properties, and creating responsive layouts using Flexbox and Grid. It includes fundamental concepts, examples, and beginner-friendly projects to help understand web development
