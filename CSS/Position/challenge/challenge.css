@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.main {
+    display: flex;
+    /* padding: 20px; */
+    background-color: white;
+    border-radius: 5px;
+    width: 500px;
+    height: 200px;
+    margin: 200px 450px;
+}
+.main-box {
+    width: 200px;
+    padding-left: 20px;
+    font-family: calibri;
+}
+.head {
+    font-size: 30px;
+    font-weight: 900;
+}
+.sub-head {
+    font-family: 20px;
+}
+.right-bar {
+    background-color: green;
+    color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
