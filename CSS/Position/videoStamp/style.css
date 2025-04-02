@@ -6,10 +6,9 @@ body {
     background-color: grey;
     height: 200px;
     width: 400px;
-    position: relative;
+    position: fixed;
 }
 .button-class {
-    margin: 50px;
     border-radius: 50%;
     background-color: black;
     height: 50px;
